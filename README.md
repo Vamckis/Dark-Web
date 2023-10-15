@@ -1,7 +1,8 @@
 # Dark-Web
 -  Surface Web (Wiki, Google, Twitter) vs Deep Web (Gov resources, legal docs, financial records)) vs Dark Web (sites end with .onion)
 ### TOR (The Onion Router)
-- https://tor.taxiDarknet
+- https://tor.taxi
+- Darknet
 - Darknet Bible
 - https://thehidden.wiki
 - Hunchly - Its daily dark web reports can help you identify new hidden services, or find investigation targets that you might not otherwise know about
