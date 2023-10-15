@@ -9,8 +9,16 @@
 - https://github.com/vlall/Darksearch
 - Ahmia Search Engine - ahmia.fi
 - https://github.com/DedSecInside/TorBot -  Open Source Intelligence Tool for the Dark Web. Checks if pages iz UP or not.
-- https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md - Telegram channels
 - 0day.today
+### Telegram channels
+- https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md
+- X-Force - Leaked Credit Cards
+- CVE Notify
+- The Bug Bounty Hunter
+- Cyber Threat Intelligence
+- Hidden Links
+### VPN
+- Proton VPN - Free to use
 ### Secure Anonymous OS - Tails
 - https://tails.net/ - Anaonymous Operating Machine
 - OTR (Off the Recore Messaging) is enabled by default. It is open source protocal designed to prevent eavesdropping.
@@ -23,3 +31,13 @@
 - It is a chat program. End to End encrypted.
 - wiuwiu.de - German XMPP server. Used to login into Pidgin.
 - Using a secret question, we can initiate a private chat.
+### Threat Intelligence
+- https://otx.alienvault.com - OpenSource Threat Intelligence tool.
+- urlscan.io - To scan domains, gives
+- AbuseIPDB - To check if IP is malicious
+- abuse.ch
+- breachdirectory.org - To check if our details are exposed in a data breach
+- checkleaded.cc - check for leaked passwords
+- demo.opencti.io
+- MISP - Open-Source, download from github and use it.
+### DarkWeb Automation
