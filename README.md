@@ -11,4 +11,15 @@
 - https://github.com/DedSecInside/TorBot -  Open Source Intelligence Tool for the Dark Web. Checks if pages iz UP or not.
 - https://github.com/fastfire/deepdarkCTI/blob/main/telegram.md - Telegram channels
 - 0day.today
+### Secure Anonymous OS - Tails
 - https://tails.net/ - Anaonymous Operating Machine
+- OTR (Off the Recore Messaging) is enabled by default. It is open source protocal designed to prevent eavesdropping.
+- Pidgin is installed in Tails
+### Secure Emails
+- Proton.me - we can create a user and use in Darkweb.
+- 10 Minute Mail
+### Secure Messaging - Pidgin
+- https://pidgin.im/install/
+- It is a chat program. End to End encrypted.
+- wiuwiu.de - German XMPP server. Used to login into Pidgin.
+- Using a secret question, we can initiate a private chat.
